@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0d6e5a-9f4f-4d81-9845-ae7d4b35a149" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E1CalculVitesse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeyboardInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DataTypes">
+  <component name="RunManager" selected="Application.KeyboardInput">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypes" />
       <module name="intro-java" />
@@ -51,6 +50,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KeyboardInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeyboardInput" />
+      <module name="intro-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="intro-java" />
@@ -60,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyboardInput" />
         <item itemvalue="Application.DataTypes" />
         <item itemvalue="Application.E1CalculVitesse" />
         <item itemvalue="Application.Variables" />
