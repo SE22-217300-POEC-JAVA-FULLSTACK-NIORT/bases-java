@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0d6e5a-9f4f-4d81-9845-ae7d4b35a149" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Booleens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlternativesMultiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperateursLogiques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +36,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Conditions">
+  <component name="RunManager" selected="Application.OperateursLogiques">
+    <configuration name="AlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlternativesMultiples" />
+      <module name="intro-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditions" />
-      <module name="intro-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypes" />
-      <module name="intro-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E1CalculVitesse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E1CalculVitesse" />
       <module name="intro-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperateursLogiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperateursLogiques" />
+      <module name="intro-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperateursLogiques" />
+        <item itemvalue="Application.AlternativesMultiples" />
         <item itemvalue="Application.Conditions" />
         <item itemvalue="Application.FonctionsMathematiques" />
         <item itemvalue="Application.KeyboardInput" />
-        <item itemvalue="Application.DataTypes" />
-        <item itemvalue="Application.E1CalculVitesse" />
       </list>
     </recent_temporary>
   </component>
