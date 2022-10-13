@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0d6e5a-9f4f-4d81-9845-ae7d4b35a149" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AlternativesMultiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperateursLogiques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoucleDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoucleDoWhileBestPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoucleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoucleImbriques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoucleWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E1SigneNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TableauStatique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TableauStatique2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,43 +36,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.OperateursLogiques">
-    <configuration name="AlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlternativesMultiples" />
+}</component>
+  <component name="RunManager" selected="Application.TableauStatique2">
+    <configuration name="BoucleDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoucleDoWhile" />
       <module name="intro-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditions" />
+    <configuration name="BoucleDoWhileBestPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoucleDoWhileBestPractice" />
       <module name="intro-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FonctionsMathematiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FonctionsMathematiques" />
+    <configuration name="BoucleWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoucleWhile" />
       <module name="intro-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyboardInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KeyboardInput" />
+    <configuration name="TableauStatique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TableauStatique" />
       <module name="intro-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperateursLogiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperateursLogiques" />
+    <configuration name="TableauStatique2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TableauStatique2" />
       <module name="intro-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperateursLogiques" />
-        <item itemvalue="Application.AlternativesMultiples" />
-        <item itemvalue="Application.Conditions" />
-        <item itemvalue="Application.FonctionsMathematiques" />
-        <item itemvalue="Application.KeyboardInput" />
+        <item itemvalue="Application.TableauStatique2" />
+        <item itemvalue="Application.TableauStatique" />
+        <item itemvalue="Application.BoucleDoWhileBestPractice" />
+        <item itemvalue="Application.BoucleDoWhile" />
+        <item itemvalue="Application.BoucleWhile" />
       </list>
     </recent_temporary>
   </component>
