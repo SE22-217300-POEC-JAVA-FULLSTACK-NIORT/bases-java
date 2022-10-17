@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0d6e5a-9f4f-4d81-9845-ae7d4b35a149" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_poo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_poo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bases_java/ErrorHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_poo/Cercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_poo/MainGeometrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_poo/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlternativesMultiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/AlternativesMultiples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Booleens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/Booleens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BoucleDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/BoucleDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BoucleDoWhileBestPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/BoucleDoWhileBestPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BoucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/BoucleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BoucleImbriques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/BoucleImbriques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BoucleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/BoucleWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E1CalculVitesse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/E1CalculVitesse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E1SigneNombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/E1SigneNombre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmailRates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/EmailRates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FonctionsMathematiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/FonctionsMathematiques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/KeyboardInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManipulationsStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/ManipulationsStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/Methodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperateursLogiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/OperateursLogiques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableauDynamiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/TableauDynamiques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableauStatique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/TableauStatique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableauStatique2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/TableauStatique2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bases_java/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_poo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_poo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_poo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_poo/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +40,35 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bases_java.Methodes">
-    <configuration name="bases_java.EmailRates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bases_java.EmailRates" />
+  <component name="RunManager" selected="Application.MainGeometrie">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_poo.Main" />
       <module name="intro-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bases_java.ManipulationsStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bases_java.ManipulationsStrings" />
+    <configuration name="MainGeometrie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_poo.MainGeometrie" />
+      <module name="intro-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bases_java.EmailRates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bases_java.EmailRates" />
       <module name="intro-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bases_java.TableauStatique2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bases_java.TableauStatique2" />
-      <module name="intro-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainGeometrie" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.bases_java.Methodes" />
         <item itemvalue="Application.bases_java.EmailRates" />
         <item itemvalue="Application.bases_java.TableauDynamiques" />
-        <item itemvalue="Application.bases_java.ManipulationsStrings" />
-        <item itemvalue="Application.bases_java.TableauStatique2" />
       </list>
     </recent_temporary>
   </component>
