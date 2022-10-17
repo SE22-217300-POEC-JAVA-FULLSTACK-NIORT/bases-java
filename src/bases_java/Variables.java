@@ -1,3 +1,5 @@
+package bases_java;
+
 public class Variables {
     public static void main(String[] args) {
         int longueur=500;

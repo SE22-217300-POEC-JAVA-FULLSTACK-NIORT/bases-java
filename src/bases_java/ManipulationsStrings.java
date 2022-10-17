@@ -1,3 +1,5 @@
+package bases_java;
+
 public class ManipulationsStrings {
     public static void main(String[] args) {
         char gender='F';

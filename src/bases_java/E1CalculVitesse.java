@@ -1,3 +1,5 @@
+package bases_java;
+
 public class E1CalculVitesse {
     public static void main(String[] args) {
         double distanceParcourue=300;

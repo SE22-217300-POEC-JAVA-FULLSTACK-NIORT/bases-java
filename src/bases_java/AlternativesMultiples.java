@@ -1,3 +1,5 @@
+package bases_java;
+
 import java.util.Scanner;
 public class AlternativesMultiples {
     public static void main(String[] args) {

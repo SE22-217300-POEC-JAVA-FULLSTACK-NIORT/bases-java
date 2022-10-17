@@ -1,3 +1,5 @@
+package bases_java;
+
 public class BoucleFor {
     public static void main(String[] args) {
         // connaitre le nombre dont on veut calculer le carré
