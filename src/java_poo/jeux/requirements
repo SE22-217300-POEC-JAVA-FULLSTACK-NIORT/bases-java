@@ -1,0 +1,26 @@
+Créer 3 classes :
+- Guerrier
+    { - nom:String,
+      - dureeDeVie:int,
+      - arme:String,
+      + rencontrer():void
+     }
+- Magicien
+     {
+          - nom:String,
+          - dureeDeVie:int,
+          - baguetteMagique:String,
+          + rencontrer():void
+         }
+- Sorcier
+
+ {
+          - nom:String,
+          - dureeDeVie:int,
+          - baguetteMagique:String,
+          - batonMagique
+          + rencontrer():void
+         }
+
+ Pour tous les membres privé, créer des getter et setter
+ Avoir un construteur par classe
